@@ -12,5 +12,8 @@ Debemos analizar que tipo de producto comercializado por Amazon es mas visto, ca
 8. Darle formato o tema a tu hoja de visualización para reflejar un trabajo impecable.
 9. Te invito a realizar nuevamente esta visualización utilizando los gráficos que tu decidas que son los correctos para reflejar fluidez en tus datos.
 
+
+Les dejo el link de el archivo Looker Studio donde se realizó la visualización: https://lookerstudio.google.com/s/l59OuAak3_o
+
 NOTA: La práctica hace al maestro, la constancia vence al talento.
 
